@@ -1,6 +1,6 @@
 {
-  "name": "dry-uninstall",
-  "version": "0.3.0",
+  "name": "js-dummy-dependency-class",
+  "version": "0.1.0",
   "description": "Empty npm package to \"uninstall\" unused transitive dependencies",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denys-potapov/dry-uninstall.git"
+    "url": "git+https://github.com/OZZlE/js-dummy-dependency-class.git"
   },
   "keywords": [
     "npm",
     "empty"
-  ],
-  "author": "Denys Potapov",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/denys-potapov/dry-uninstall/issues"
-  },
-  "homepage": "https://github.com/denys-potapov/dry-uninstall#readme"
+  ]
 }

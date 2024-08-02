@@ -1,1 +1,5 @@
-module.exports = {};
+class Example {
+
+}
+
+module.exports = Example;
